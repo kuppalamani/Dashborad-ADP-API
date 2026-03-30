@@ -89,7 +89,7 @@ export default function WelcomePage({ onFileUpload, uploading, uploadError }) {
         <div style={{ width: 64, height: 64, background: "linear-gradient(135deg, #4f6ef7, #7c3aed)", borderRadius: 20, display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 8px 32px rgba(79,110,247,0.3)" }}>
           <BarChart2 size={30} color="#fff" />
         </div>
-        <div style={{ fontSize: 11, fontWeight: 700, color: "#4f6ef7", letterSpacing: "0.15em", textTransform: "uppercase" }}>Aqure</div>
+        <div style={{ fontSize: 11, fontWeight: 700, color: "#4f6ef7", letterSpacing: "0.15em", textTransform: "uppercase" }}>Aquera</div>
       </div>
 
       <div style={{ textAlign: "center", marginBottom: 40, maxWidth: 520 }}>
